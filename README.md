@@ -1,17 +1,37 @@
-## Hi there 👋
-## I am a master - student at Hacettepe University.
+# 👋 Merhaba, Ben [Adın Soyadın]
+### 🔌 Embedded Systems & Embedded Linux Developer
 
-<!--
-**ProfCoderCs/ProfCoderCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) sistemler ve gerçek zamanlı işletim sistemleri (RTOS) üzerine çözümler üretiyorum. **Raspberry Pi 5**, **C/C++** ve **Linux çekirdeği/sistem programlama** konularında projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknik Yetenekler & Araçlar
+
+| Alan | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Diller** | C, C++, Python, Bash Scripting |
+| **Gömülü & RTOS** | FreeRTOS, Raspberry Pi 5, STM32, Bare-Metal C |
+| **Gömülü Linux** | Linux System Programming, Driver Basics, Yocto / Buildroot, Shell |
+| **Araçlar & Protokoller** | Git, CMake, GDB, UART, SPI, I2C, CAN, Oscilloscope/Logic Analyzer |
+
+---
+
+### 🔭 Şu An Ne Yapıyorum?
+
+- 🚀 **Odak Noktam:** Raspberry Pi 5 üzerinde Gömülü Linux sistem programlama ve FreeRTOS ile gerçek zamanlı görev yönetimi.
+- 🌱 **Öğrendiklerim:** Linux Çekirdek Sürücüsü (Kernel Driver) geliştirme ve Yocto Project ile özel Linux dağıtımı oluşturma.
+- 💬 **Bana Sorun:** C/C++, FreeRTOS mimarisi, Linux ortamında donanım iletişimi (SPI/I2C/UART).
+
+---
+
+### 📊 GitHub İstatistikleri
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[ProfCoderCs]&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ProfCoderCs]&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[fightclub345789@gmail.com])
