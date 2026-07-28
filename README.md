@@ -34,5 +34,5 @@ Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) si
 
 ### ⏱️ Haftalık Kodlama Sürelerim & Diller
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfCoderCs&theme=dracula&layout=compact)
+![WakaTime Stats](https://wakatime.com/badge/user/ProfCoderCs.svg)
 
