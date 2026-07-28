@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Adın Soyadın]
+# 👋 Merhaba, Ben [Muhammed]
 ### 🔌 Embedded Systems & Embedded Linux Developer
 
 Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) sistemler ve gerçek zamanlı işletim sistemleri (RTOS) üzerine çözümler üretiyorum. **Raspberry Pi 5**, **C/C++** ve **Linux çekirdeği/sistem programlama** konularında projeler geliştiriyorum.
@@ -26,8 +26,8 @@ Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) si
 
 ### 📊 GitHub İstatistikleri
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=[ProfCoderCs]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ProfCoderCs]&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfCoderCs&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCoderCs&layout=compact&theme=tokyonight)
 
 ---
 
