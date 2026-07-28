@@ -32,7 +32,7 @@ Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) si
 ### ✨ Profil Ziyaretçileri
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs)
 
-### 📈 GitHub Aktivite Kartı
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProfCoderCs&theme=dracula)
+### ⏱️ Haftalık Kodlama Sürelerim & Diller
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfCoderCs&theme=dracula&layout=compact)
 
