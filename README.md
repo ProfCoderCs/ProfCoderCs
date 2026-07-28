@@ -28,3 +28,11 @@ Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) si
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[fightclub345789@gmail.com])
+
+### ✨ Profil Ziyaretçileri
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs)
+
+### ⏱️ WakaTime Stats
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProfCoderCs&theme=dracula&layout=compact)](https://wakatime.com)
+
+
