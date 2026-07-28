@@ -24,14 +24,6 @@ Donanım ile yazılımın kesişim noktasında, düşük seviyeli (low-level) si
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-![ProfCoderCs GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProfCoderCs&show_icons=true&theme=dracula)
-
-![GitHub Readme Streak](https://streak-stats.demolab.com/?user=ProfCoderCs&theme=dracula)
-
----
-
 ### 📬 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
