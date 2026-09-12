@@ -63,4 +63,7 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 
 ![WakaTime Stats](https://wakatime.com/badge/user/ProfCoderCs.svg)
 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfCoderCs&theme=default" alt="GitHub Streak" />
+</p>
 
