@@ -10,6 +10,21 @@
 I develop solutions at the intersection of hardware and software, focusing on low-level systems and Real-Time Operating Systems (RTOS). I build projects using **Raspberry Pi 5**, **C/C++**, and **Linux kernel/system programming**.
 
 ---
+### Languages
+---
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,java,bash,arduino" />
+  </a>
+</p>
+
+### Tools & Frameworks
+---
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,eclipse,linux,raspberrypi,qt" />
+  </a>
+</p>
 
 ### 🛠️Technical Skills & Tools
 # 💻 Tech Stack:
