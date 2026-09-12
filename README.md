@@ -1,14 +1,14 @@
-# Hello,I'm Muhammed 👋
+# Hello, I'm Muhammed 👋
+---
 
-### ✨ Profile Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs)
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs" alt="Visitors" />
+</p>
 
 
 
 ### 🔌 Embedded Systems & Embedded Linux Developer
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs" alt="Visitors" />
-</p>
+
 
 
 ---
