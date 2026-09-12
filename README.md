@@ -62,5 +62,5 @@ I develop solutions at the intersection of hardware and software, focusing on lo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfCoderCs&theme=default" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=ProfCoderCs&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
