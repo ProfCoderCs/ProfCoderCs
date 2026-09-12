@@ -24,12 +24,6 @@ I develop solutions at the intersection of hardware and software, focusing on lo
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,eclipse,linux,raspberrypi,qt" />
   </a>
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="48" style="vertical-align: top;" />
-  </a>
-  <a href="https://www.st.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/STMicroelectronics-00205B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="48" style="vertical-align: top;" />
-  </a>
 </p>
 
 ### 🛠️Technical Skills & Tools
