@@ -67,5 +67,5 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ProfCoderCs&theme=default&layout=compact&include_all_commits=true&include_forks=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ProfCoderCs&theme=default&layout=compact&include_all_commits=true&count_private=true" alt="Most Used Languages" />
 </p>
