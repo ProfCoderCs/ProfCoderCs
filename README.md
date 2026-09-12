@@ -63,5 +63,5 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProfCoderCs&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ProfCoderCs&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
