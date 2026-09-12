@@ -10,7 +10,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs" alt="Visitors" />
 </p>
 
-I develop solutions at the intersection of hardware and software, focusing on low-level systems and Real-Time Operating Systems (RTOS). I build projects using **Raspberry Pi 5**, **C/C++**, and **Linux kernel/system programming**.
 
 ---
 
