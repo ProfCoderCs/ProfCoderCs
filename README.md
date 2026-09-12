@@ -23,6 +23,8 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,eclipse,linux,raspberrypi,qt" />
+    <img src="https://raw.githubusercontent.com/ros/ros_comm/noetic-devel/ros.png" alt="ROS2" width="48" height="48" style="border-radius: 10px; margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/stmicroelectronics.svg" alt="STMicroelectronics" width="48" height="48" style="border-radius: 10px;" />
   </a>
 </p>
 
