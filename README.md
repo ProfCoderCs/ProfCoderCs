@@ -13,9 +13,9 @@ Embedded Software Engineer focused on system-level architecture and real-time pe
 
 ### 🔭 What I'm Currently Doing
 
-- 🚀 **My Focus:** Embedded Linux system programming on Raspberry Pi 5 and real-time task management with FreeRTOS.
-- 🌱 **What I'm Learning:** Linux Kernel Driver development and building custom Linux distributions with the Yocto Project.
-- 💬 **Ask Me About:** C/C++, FreeRTOS architecture, hardware communication in Linux environments (SPI/I2C/UART).
+- 🚀 **My Focus:** Embedded Linux system programming, real-time task management with FreeRTOS, and ROS2-based robotics integration.
+- 🌱 **What I'm Learning:** Advanced Linux Kernel Driver development and building custom, minimal Linux distributions with the Yocto Project.
+- 💬 **Ask Me About:** C/C++ architecture, FreeRTOS scheduling, Jetson/Raspberry Pi ecosystems, and hardware communication (SPI/I2C/CAN).
 
 ---
 
