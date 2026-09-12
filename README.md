@@ -1,3 +1,6 @@
+### ✨ Profile Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs)
+
 #👋 Hi, I'm [Muhammed]
 
 ### 🔌 Embedded Systems & Embedded Linux Developer
@@ -31,14 +34,6 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[fightclub345789@gmail.com])
-
-### ✨ Profile Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs)
-
-### ⏱️ Weekly Coding Activity & Languages
-
-![WakaTime Stats](https://wakatime.com/badge/user/ProfCoderCs.svg)
-
 ### Languages and Tools:
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -60,3 +55,10 @@ I develop solutions at the intersection of hardware and software, focusing on lo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+
+### ⏱️ Weekly Coding Activity & Languages
+
+![WakaTime Stats](https://wakatime.com/badge/user/ProfCoderCs.svg)
+
+
