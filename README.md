@@ -6,34 +6,11 @@
 
 
 ### 🔌 Embedded Systems & Embedded Linux Developer
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs" alt="Visitors" />
+</p>
 
 I develop solutions at the intersection of hardware and software, focusing on low-level systems and Real-Time Operating Systems (RTOS). I build projects using **Raspberry Pi 5**, **C/C++**, and **Linux kernel/system programming**.
-
----
-### Languages
----
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,bash,arduino" />
-  </a>
-</p>
-
-### Tools & Frameworks
----
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,eclipse,linux,raspberrypi,qt" />
-  </a>
-</p>
-
-### 🛠️Technical Skills & Tools
-
-| Field | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | C, C++, Python, Bash Scripting |
-| **Embedded & RTOS** | FreeRTOS, Raspberry Pi 5, STM32, Bare-Metal C |
-| **Embedded Linux** | Linux System Programming, Driver Basics, Yocto / Buildroot, Shell |
-| **Tools & Protocols** | Git, CMake, GDB, UART, SPI, I2C, CAN, Oscilloscope/Logic Analyzer |
 
 ---
 
@@ -45,15 +22,33 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 
 ---
 
+### 🛠️Technical Skills & Tools
+
+### Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,bash,arduino" />
+  </a>
+</p>
+
+### Tools & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,eclipse,linux,raspberrypi,qt" />
+  </a>
+</p>
 
 
-### 📬Connect with Me
+#### 📋 Domain Breakdown
+| Field | Technologies & Protocols |
+| :--- | :--- |
+| **Embedded & RTOS** | FreeRTOS, Raspberry Pi 5, STM32, Bare-Metal C |
+| **Embedded Linux** | Linux System Programming, Driver Basics, Yocto / Buildroot |
+| **Protocols & Hardware Tools** | UART, SPI, I2C, CAN, Oscilloscope, Logic Analyzer, CMake, GDB |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[fightclub345789@gmail.com])
+---
 
-
-
+### 📊 GitHub Statistics
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfCoderCs&theme=default" alt="GitHub Streak" />
 </p>
@@ -65,3 +60,8 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ProfCoderCs&theme=default&layout=compact&include_all_commits=true&count_private=true" alt="Most Used Languages" />
 </p>
+
+### 📬Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[fightclub345789@gmail.com])
