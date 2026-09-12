@@ -1,5 +1,4 @@
 # Hello, I'm Muhammed 👋
----
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ProfCoderCs.ProfCoderCs" alt="Visitors" />
@@ -8,8 +7,7 @@
 
 
 ### 🔌 Embedded Systems & Embedded Linux Developer
-
-
+Embedded Software Engineer focused on system-level architecture and real-time performance. I build scalable hardware-software integrations using **C/C++**, **FreeRTOS**, and custom **Embedded Linux** setups (Yocto/Buildroot). Whether it's crafting kernel drivers, configuring low-level protocols (CAN/SPI/I2C), or developing **ROS2-based teleoperation systems for Pioneer robots on Jetson Orin NX**, I thrive close to the metal.
 
 ---
 
