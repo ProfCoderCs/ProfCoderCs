@@ -25,6 +25,12 @@ I develop solutions at the intersection of hardware and software, focusing on lo
 
 ---
 
+<br />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCoderCs&theme=dark&layout=compact" alt="Most Used Languages" />
+</a>
+
 ### 📬Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-osman-önsoy/)
