@@ -51,6 +51,8 @@ I develop solutions at the intersection of hardware and software, focusing on lo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfCoderCs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
