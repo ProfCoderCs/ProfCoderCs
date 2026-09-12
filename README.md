@@ -1,7 +1,9 @@
 #👋 Hi, I'm [Muhammed]
+
 ### 🔌 Embedded Systems & Embedded Linux Developer
 
 I develop solutions at the intersection of hardware and software, focusing on low-level systems and Real-Time Operating Systems (RTOS). I build projects using **Raspberry Pi 5**, **C/C++**, and **Linux kernel/system programming**.
+
 ---
 
 ### 🛠️Technical Skills & Tools
