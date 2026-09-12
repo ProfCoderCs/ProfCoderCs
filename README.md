@@ -39,8 +39,9 @@ Embedded Software Engineer focused on system-level architecture and real-time pe
 #### 📋 Domain Breakdown
 | Field | Technologies & Protocols |
 | :--- | :--- |
-| **Embedded & RTOS** | FreeRTOS, Raspberry Pi 5, STM32, Bare-Metal C |
+| **Embedded & RTOS** | FreeRTOS, STM32, Bare-Metal C, Raspberry Pi 5 |
 | **Embedded Linux** | Linux System Programming, Driver Basics, Yocto / Buildroot |
+| **Robotics & Edge Computing** | ROS2, NVIDIA Jetson Orin NX, Pioneer Teleoperation |
 | **Protocols & Hardware Tools** | UART, SPI, I2C, CAN, Oscilloscope, Logic Analyzer, CMake, GDB |
 
 ---
